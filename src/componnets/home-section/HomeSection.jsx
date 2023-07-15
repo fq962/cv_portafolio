@@ -17,7 +17,7 @@ function HomeSection() {
       <div className='contenedor'>
         <div className='container-info'>
           <div className='section-izq'>
-            <span className='titulo'>David Fernando. Quintanilla</span>
+            <span className='titulo'>David F. Quintanilla</span>
             <div className='info'>
               <FontAwesomeIcon className='iconitos' icon={faGithub} />
               <FontAwesomeIcon className='iconitos' icon={faLinkedin} />
