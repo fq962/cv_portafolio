@@ -33,7 +33,7 @@ function HomeSection() {
                 excepcional para trabajar en equipo y comunicarme de manera
                 efectiva. Siempre estoy buscando aprender y mejorar mis
                 habilidades, manteniéndome al día con las últimas tendencias y
-                mejores prácticas en el campo del desarrollo web.
+                mejores prácticas en el campo del desarrollo web y back-end.
               </p>
             </div>
           </div>
